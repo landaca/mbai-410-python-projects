@@ -100,7 +100,7 @@ MBAi 410/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mbai-410-python-projects.git
+git clone https://github.com/landaca/mbai-410-python-projects.git
 cd mbai-410-python-projects
 ```
 
